@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <my-button class="bg-[#3B82F6] mr-[20px]" @click="handleClickBtn('1')"
+    <my-button class="bg-[#3B82F6] lt:mr-[20px]" @click="handleClickBtn('1')"
       >Заказать в Москву</my-button
     >
     <my-button class="bg-[#0D9488]" @click="handleClickBtn('2')"
